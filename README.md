@@ -11,9 +11,7 @@ I'm a data analyst and product manager with a strong passion for programming, da
 
 ---
 
-<div align="right" style="max-width: 180px; margin-left: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/nikbckm/nikbckm/raw/main/thatsme.png" alt="That's Me" style="width: 100%; height: auto;">
-</div>
+<img src="https://github.com/nikbckm/nikbckm/raw/main/thatsme_small.png" alt="That's Me" style="width: 100%; height: auto;">
 
 Feel free to browse through my repositories, and let’s connect!
 
