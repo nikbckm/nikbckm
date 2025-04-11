@@ -11,6 +11,11 @@ I'm a data analyst and product manager with a strong passion for programming, da
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikbckm&layout=compact)
+
+---
+
+
 <img src="https://github.com/nikbckm/nikbckm/raw/main/thatsme_small.png" alt="That's Me">
 
 Feel free to browse through my repositories, and let’s connect!
