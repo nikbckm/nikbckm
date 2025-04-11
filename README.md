@@ -11,7 +11,7 @@ I'm a data analyst and product manager with a strong passion for programming, da
 
 ---
 
-<img src="https://github.com/nikbckm/nikbckm/raw/main/thatsme_small.png" alt="That's Me" style="width: 100%; height: auto;">
+<img src="https://github.com/nikbckm/nikbckm/raw/main/thatsme_small.png" alt="That's Me">
 
 Feel free to browse through my repositories, and let’s connect!
 
