@@ -11,7 +11,7 @@ I'm a data analyst and product manager with a strong passion for programming, da
 - [Portfolio]([#](https://boeckmann.carrd.co/))
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/nikbckm/nikbckm/raw/main/thatsme.jpg" alt="That's Me" width="150" height="150">
+  <img src="https://github.com/nikbckm/nikbckm/raw/main/thatsme.png" alt="That's Me" width="150" height="150">
 </div>
 
 
