@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**nikbckm/nikbckm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I believe that product managers should understand (the basics of) the tech that they're working with. That's why I am here to learn. :)
 
-Here are some ideas to get you started:
+I'm a data analyst and product manager with a strong passion for programming, data management, and ... football! I'm currently enhancing my expertise through a Master's program in Data Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📎 Connect with me:
+
+- [LinkedIn]([#](https://www.linkedin.com/in/niklas-boeckmann/))  
+- [Portfolio]([#](https://boeckmann.carrd.co/))
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/nikbckm/nikbckm/raw/main/thatsme.jpg" alt="That's Me" width="150" height="150">
+</div>
+
+
+Feel free to browse through my repositories, and let’s connect!
+
