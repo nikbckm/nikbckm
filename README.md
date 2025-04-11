@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Moin!
 
 Hi there! 👋 I believe that product managers should understand (the basics of) the tech that they're working with. That's why I am here to learn. :)
 
